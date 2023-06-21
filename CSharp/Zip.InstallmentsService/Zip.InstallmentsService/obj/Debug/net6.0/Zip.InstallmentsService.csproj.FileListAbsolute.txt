@@ -1,0 +1,13 @@
+C:\CodeTest\software-engineer-interview-master\SoftwareEngineerInterview\CSharp\Zip.InstallmentsService\Zip.InstallmentsService\bin\Debug\net6.0\Zip.InstallmentsService.deps.json
+C:\CodeTest\software-engineer-interview-master\SoftwareEngineerInterview\CSharp\Zip.InstallmentsService\Zip.InstallmentsService\bin\Debug\net6.0\Zip.InstallmentsService.dll
+C:\CodeTest\software-engineer-interview-master\SoftwareEngineerInterview\CSharp\Zip.InstallmentsService\Zip.InstallmentsService\bin\Debug\net6.0\Zip.InstallmentsService.pdb
+C:\CodeTest\software-engineer-interview-master\SoftwareEngineerInterview\CSharp\Zip.InstallmentsService\Zip.InstallmentsService\obj\Debug\net6.0\Zip.InstallmentsService.csproj.AssemblyReference.cache
+C:\CodeTest\software-engineer-interview-master\SoftwareEngineerInterview\CSharp\Zip.InstallmentsService\Zip.InstallmentsService\obj\Debug\net6.0\Zip.InstallmentsService.GeneratedMSBuildEditorConfig.editorconfig
+C:\CodeTest\software-engineer-interview-master\SoftwareEngineerInterview\CSharp\Zip.InstallmentsService\Zip.InstallmentsService\obj\Debug\net6.0\Zip.InstallmentsService.AssemblyInfoInputs.cache
+C:\CodeTest\software-engineer-interview-master\SoftwareEngineerInterview\CSharp\Zip.InstallmentsService\Zip.InstallmentsService\obj\Debug\net6.0\Zip.InstallmentsService.AssemblyInfo.cs
+C:\CodeTest\software-engineer-interview-master\SoftwareEngineerInterview\CSharp\Zip.InstallmentsService\Zip.InstallmentsService\obj\Debug\net6.0\Zip.InstallmentsService.csproj.CoreCompileInputs.cache
+C:\CodeTest\software-engineer-interview-master\SoftwareEngineerInterview\CSharp\Zip.InstallmentsService\Zip.InstallmentsService\obj\Debug\net6.0\Zip.InstallmentsService.dll
+C:\CodeTest\software-engineer-interview-master\SoftwareEngineerInterview\CSharp\Zip.InstallmentsService\Zip.InstallmentsService\obj\Debug\net6.0\refint\Zip.InstallmentsService.dll
+C:\CodeTest\software-engineer-interview-master\SoftwareEngineerInterview\CSharp\Zip.InstallmentsService\Zip.InstallmentsService\obj\Debug\net6.0\Zip.InstallmentsService.pdb
+C:\CodeTest\software-engineer-interview-master\SoftwareEngineerInterview\CSharp\Zip.InstallmentsService\Zip.InstallmentsService\obj\Debug\net6.0\ref\Zip.InstallmentsService.dll
+C:\CodeTest\software-engineer-interview-master\SoftwareEngineerInterview\CSharp\Zip.InstallmentsService\Zip.InstallmentsService\bin\Debug\net6.0\Zip.InstallmentsService.dll.config
